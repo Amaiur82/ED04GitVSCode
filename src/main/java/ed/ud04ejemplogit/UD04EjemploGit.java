@@ -9,6 +9,6 @@ package ed.ud04ejemplogit;
 public class UD04EjemploGit {
 
     public static void main(String[] args) {
-        System.out.println("estoy hartaaa");
+        System.out.println("ni te cuento");
     }
 }
